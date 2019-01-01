@@ -1,6 +1,1 @@
 add new fun script for trinitycore 3.3.5 last version ...
-1.all class all race 
-2.
-3.
-4.
-...
